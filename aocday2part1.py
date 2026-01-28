@@ -22,4 +22,5 @@ for i, j in input:
         if s[0:a] == s[a:]:
             list1.append(k)
 
+# solved 
 print(sum(list1)) 
